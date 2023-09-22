@@ -1,6 +1,9 @@
 
 header{
-    color: rgb(221, 37, 68)
+    background: pink
 
-    }
+}
     
+section{
+    display: flex
+}

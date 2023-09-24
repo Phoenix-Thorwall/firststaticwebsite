@@ -6,4 +6,10 @@ header{
     
 section{
     display: flex
+    
+}
+
+article{
+    background: pink
+
 }

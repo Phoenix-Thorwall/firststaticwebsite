@@ -1,19 +1,21 @@
 
 header{
-    background: pink
+    background: pink;
+    text-align: center;
 
 }
     
 .heading{
-    display: flex
+    display: flex;
+    background: pink;
+    justify-content: center;
     
 }
 
-article{
-    background: pink
-
+.AnimalPara{
+    display: flex
 }
 
-.PenguinPara{
-    display: flex
+table, th, td {
+    border: 1px solid black;
 }

@@ -13,9 +13,10 @@ header{
 }
 
 .AnimalPara{
-    display: flex
+    display: flex;
 }
 
 table, th, td {
     border: 1px solid black;
 }
+
